@@ -1,16 +1,43 @@
-# decimal_to_binary_app
 
-A new Flutter project.
+```markdown
+# Binary to Decimal Converter
+
+A simple Flutter app that converts binary numbers to decimal.
+
+## Overview
+
+This mobile app allows users to input a binary number (composed of 0s and 1s) and converts it to its decimal equivalent. It provides a straightforward interface with a Convert button, and the result is displayed below.
+
+## Features
+
+- Binary to Decimal conversion
+- User-friendly interface
+- Real-time conversion updates
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Clone the repository:
 
-A few resources to get you started if this is your first Flutter project:
+   ```bash
+   git clone https://github.com/saim-x/BinaryToDecimalFlutter.git
+   ```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2. Open the project in your preferred Flutter development environment.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3. Run the app on an emulator or physical device.
+
+4. Enter a binary number and click the "Convert" button to see the decimal equivalent.
+
+## Dependencies
+
+- Flutter: [https://flutter.dev/](https://flutter.dev/)
+- Dart: [https://dart.dev/](https://dart.dev/)
+
+## Contributing
+
+Contributions are welcome! If you find any issues or have improvements, feel free to open a pull request.
+
+## Acknowledgments
+
+Special thanks to the Flutter community and contributors.
+
